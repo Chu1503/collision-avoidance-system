@@ -1,6 +1,4 @@
-dataset/*
-
-!dataset/structure.txt
+dataset/
 
 kitti_labels/
 
