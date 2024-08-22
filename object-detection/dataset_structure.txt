@@ -1,1 +1,36 @@
-Hello
+Dataset Structure:
+
+- dataset/
+  - train/
+    - images/
+      - 000000.png
+      - 000001.png
+      - ...
+      - 006999.png
+    - labels/
+      - 000000.txt
+      - 000001.txt
+      - ...
+      - 006999.txt
+
+  - val/
+    - images/
+      - 007000.png
+      - 007001.png
+      - ...
+      - 007480.png
+    - labels/
+      - 007000.txt
+      - 007001.txt
+      - ...
+      - 007480.txt
+
+  - test/
+    - images/
+      - 000000.png
+      - 000001.png
+      - ...
+      - 007517.png
+
+Dataset Download Links: https://www.cvlibs.net/datasets/kitti/index.php
+https://www.kaggle.com/datasets/klemenko/kitti-dataset
