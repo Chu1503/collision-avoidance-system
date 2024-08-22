@@ -1,0 +1,7 @@
+dataset/*
+
+!dataset/structure.txt
+
+kitti_labels/
+
+.ipynb_checkpoints/
